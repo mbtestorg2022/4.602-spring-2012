@@ -45,16 +45,106 @@ There is no single text for the course, but 4 books with required readings are r
 Grading
 -------
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Oral presentation | 10% |
-| Paper 1 | 10% |
-| Paper 2 | 10% |
-| Midterm | 10% |
-| Paper 3 | 10% |
-| Paper 4 | 10% |
-|  {{< br >}}{{< br >}} Paper 5 - Final Research paper {{< br >}}{{< br >}}    {{< br >}}{{< br >}} **OR** {{< br >}}{{< br >}}    {{< br >}}{{< br >}} Final Exam  {{< br >}}(required of students receiving HASS-D credit) {{< br >}}{{< br >}}  | 35% |
-| Class participation | 5% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Oral presentation
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Paper 1
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Paper 2
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Midterm
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Paper 3
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Paper 4
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+Paper 5 - Final Research paper
+
+  
+
+**OR**
+
+  
+
+Final Exam  
+(required of students receiving HASS-D credit)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+35%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Class participation
+{{< tdclose >}}
+{{< tdopen >}}
+5%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Extra credit will be given for completed peer reviews on your papers, as outlined in Sylvan Barnet's book _A Short Guide to Writing About Art_.
 
