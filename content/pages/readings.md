@@ -248,7 +248,7 @@ Serial Impressions (Print and Eye)
 
 Eisenman, Stephen. "The Intransigent Artist or How the Impressionists Got their Name." In \[Frascina\].
 
-Isaacson, Joel. ["Impressionism and Journalistic Illustration." (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)PDF - 1.7MB)](https://www.msu.edu/course/ha/446/joelisaacson.pdf) _Arts_ 56 (1982): 95–115.
+Isaacson, Joel. ["Impressionism and Journalistic Illustration." (PDF - 1.7MB)](https://www.msu.edu/course/ha/446/joelisaacson.pdf) _Arts_ 56 (1982): 95–115.
 
 Goldwater, Robert. "l'Affiche moderne: A Revival of Poster Art After 1880." _Gazette des Beaux Arts_ 22, no. 910 (1941): 173–82.
 
@@ -266,7 +266,7 @@ Picasso's Cubism: Politics and/or Semiosis
 {{< tdopen >}}
 
 
-Leighten, Patricia. ["The White Peril and _L'Art negre_: Picasso, Primitivism, and Anticolonialism." (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)PDF - 5.6MB)](http://www.csus.edu/indiv/o/obriene/art116/Readings/Leighton%20Primitivism%20and%20Anticolonialism.pdf) _Art Bulletin_ 72 (1990): 609–30.
+Leighten, Patricia. ["The White Peril and _L'Art negre_: Picasso, Primitivism, and Anticolonialism." (PDF - 5.6MB)](http://www.csus.edu/indiv/o/obriene/art116/Readings/Leighton%20Primitivism%20and%20Anticolonialism.pdf) _Art Bulletin_ 72 (1990): 609–30.
 
 Krauss, Rosalind. "In the Name of Picasso." 1981. In \[Frascina\].
 
@@ -608,9 +608,9 @@ Guest lecturers: Star TAs, Rebecca Uchill and Niko Vicario!
 {{< tdopen >}}
 
 
-Spiegler, Marc. ["When Human Beings Are the Canvas." (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)PDF)](http://www.marcspiegler.com/Articles/ArtNews/ArtNews_Profile_Sierra_2003_06.pdf). _Art News_ 102, no. 6 (2003): 94–7.
+Spiegler, Marc. ["When Human Beings Are the Canvas." (PDF)](http://www.marcspiegler.com/Articles/ArtNews/ArtNews_Profile_Sierra_2003_06.pdf). _Art News_ 102, no. 6 (2003): 94–7.
 
-Fraser, Andrea. ["From the Critique of Institutions to an Institution of Critique." (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)PDF)](http://www.marginalutility.org/wp-content/uploads/2010/07/Andrea-Fraser_From-the-Critique-of-Institutions-to-an-Institution-of-Critique.pdf) _Artforum_ 44, no. 1 (2005): 278–83.
+Fraser, Andrea. ["From the Critique of Institutions to an Institution of Critique." (PDF)](http://www.marginalutility.org/wp-content/uploads/2010/07/Andrea-Fraser_From-the-Critique-of-Institutions-to-an-Institution-of-Critique.pdf) _Artforum_ 44, no. 1 (2005): 278–83.
 
 Riding, Alan. "[Alas, Poor Art Market: A Multimillion-Dollar Head Case](http://www.nytimes.com/2007/06/13/arts/design/13skul.html)," _New York Times_, June 13, 2007.
 
@@ -630,7 +630,7 @@ Riding, Alan. "[Alas, Poor Art Market: A Multimillion-Dollar Head Case](http://w
 
 [![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262201506) "Critical Art Ensemble with Beatriz da Costa." In [_The Interventionists: Users' Manual for the Creative Disruption of Everyday Life_](https://mitpress.mit.edu/9780262201506). 2nd ed. Edited by Nato Thompson and Gregory Sholette. MASS MoCA, and MIT Press, 2006. ISBN: 9780262201506.
 
-Lambert-Beatty, Carrie. ["Twelve Miles: Boundaries of the New Art/Activism." (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)PDF)](http://www.contemporaryfeminism.com/Lambert_Beatty.pdf) _Signs: Journal of Women in Culture and Society_ 33, no. 2 (2008): 309–28.
+Lambert-Beatty, Carrie. ["Twelve Miles: Boundaries of the New Art/Activism." (PDF)](http://www.contemporaryfeminism.com/Lambert_Beatty.pdf) _Signs: Journal of Women in Culture and Society_ 33, no. 2 (2008): 309–28.
 
 
 {{< tdclose >}}
